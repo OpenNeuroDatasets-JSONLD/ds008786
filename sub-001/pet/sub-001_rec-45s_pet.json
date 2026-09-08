@@ -368,10 +368,10 @@
     ],
     "ReconFilterType": "ALL_PASS",
     "AttenuationCorrection": "measured",
+    "InfusionRadioactivity": 0,
     "InfusionSpeed": 0.2,
     "InfusionSpeedUnits": "mL/min",
-    "InfusionRadioactivity": 0.0,
-    "InfusionStart": 0.0,
-    "InjectedVolume": 14.0,
-    "ReconFilterSize": 0.0
+    "InjectedVolume": 840.0,
+    "InfusionStart": 0,
+    "ReconFilterSize": 0
 }
